@@ -4,7 +4,7 @@ CouchDB database driver for Laravel 5
 
 ## Dependencies
 
-*laravel5-couchdb* uses [doctrine/couchdb-client](https://github.com/doctrine/couchdb-client).
+*laravel5-couchdb* uses [doctrine/couchdb](https://github.com/doctrine/couchdb).
 
 ## Installation
 
