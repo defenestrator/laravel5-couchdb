@@ -1,17 +1,17 @@
 {
-    "name": "defenestrator/laravel5-couchdb",
-    "description": "CouchDB Driver for the Laravel 5 family. Includes doctrine/couchdb as a dependency in composer.json and sets up a Laravel and Eloquent-friendly Service Provider for you. Enjoy!",
-    "authors": [
-        {
-            "name": "Jeremy Anderson",
-            "email": "jeremy@edos.io"
-        }
-    ],
-    "require": {
-        "doctrine/couchdb": "^1.0@beta",
-        "illuminate/database": "^5.2",
-        "illuminate/support": "^5.2"
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+  "name": "defenestrator/laravel5-couchdb",
+  "description": "CouchDB Driver for the Laravel 5 family. Includes doctrine/couchdb as a dependency in composer.json and sets up a Laravel and Eloquent-friendly Service Provider for you. Enjoy!",
+  "authors": [
+    {
+      "name": "Jeremy Anderson",
+      "email": "jeremy@edos.io"
+    }
+  ],
+  "require": {
+    "doctrine/couchdb": "^1.0@beta",
+    "illuminate/database": "^5.2",
+    "illuminate/support": "^5.2"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
