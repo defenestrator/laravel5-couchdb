@@ -8,7 +8,7 @@
     }
   ],
   "require": {
-    "doctrine/couchdb": "^1.0@beta",
+    "doctrine/couchdb": "1.0.0-beta4",
     "illuminate/database": "^5.2",
     "illuminate/support": "^5.2"
   },
