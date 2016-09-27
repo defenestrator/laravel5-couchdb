@@ -1,5 +1,4 @@
 # laravel5-couchdb
-# Work in progress: 01/12/2016
 CouchDB database driver for Laravel 5
 
 ## Dependencies
@@ -68,5 +67,3 @@ $doc = DB::connection('couchdb')->findDocument($id);
 
 All three methods can be called on $connection or $couchdb.
 
-Thanks to [rbewley4](https://github.com/rbewley4/laravel-couchdb) for the Laravel 4 implementation, 
-upon which this is intend to expand.

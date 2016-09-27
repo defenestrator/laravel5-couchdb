@@ -4,11 +4,10 @@
   "authors": [
     {
       "name": "Jeremy Anderson",
-      "email": "jeremy@edos.io"
+      "email": "jeremy@copacetic.co"
     }
   ],
   "require": {
-    "doctrine/couchdb": "^1.0@beta",
     "illuminate/database": "^5.2",
     "illuminate/support": "^5.2"
   },
