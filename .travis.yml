@@ -7,3 +7,6 @@ matrix:
 sudo: false
 before_script:
   - phpenv config-rm xdebug.ini
+script:
+  - composer self-update
+  - composer install --prefer-source
